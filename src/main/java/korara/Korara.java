@@ -6,6 +6,6 @@ import korara.javafx.Main;
 public class Korara {
     public static void main(String[] args) {
         Application.launch(Main.class);
-        //test
+        //my test
     }
 }
